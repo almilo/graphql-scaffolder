@@ -1,0 +1,19 @@
+{
+  "name": "graphql-scaffolder",
+  "version": "0.0.0",
+  "description": "Convert an existing REST service into a GraphQL endpoint",
+  "bin": {
+    "graphql-scaffolder": "cli/index.js"
+  },
+  "keywords": [
+    "GraphQL",
+    "schema",
+    "json",
+    "generator"
+  ],
+  "author": "Alberto Mijares <almilo@almilo.es>",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^6.4.0"
+  }
+}
